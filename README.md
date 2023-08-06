@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Here's a simpler version for a non-technical person:
+## Here's a simpler version for a non-technical person to download and run the project
 
 1. Get the project files from GitHub by either downloading the zip file or cloning the repository.
 2. After downloading, extract the files from the zip folder. Then, right-click on the folder and choose "Open Terminal" (or "Command Prompt" on Windows).
