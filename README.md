@@ -1,6 +1,13 @@
-# Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Here's a simpler version for a non-technical person:
+
+1. Get the project files from GitHub by either downloading the zip file or cloning the repository.
+2. After downloading, extract the files from the zip folder. Then, right-click on the folder and choose "Open Terminal" (or "Command Prompt" on Windows).
+3. Type "npm i" in the terminal and press Enter. This will install the required components for the project.
+4. To run the project, type "npm start" in the terminal and press Enter. You can see the project running by opening your web browser and going to "http://localhost:3000".
+
+## For more details to run and build the project read available scipts below
 
 ## Available Scripts
 
